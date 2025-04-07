@@ -63,7 +63,7 @@ php artisan serve
 ## 📬 Postman Collection
 
 > Postman ile test etmek için hazır koleksiyon dosyası:  
-✅ `Laravel Auth Blog Api.postman_collection.json`
+✅ `Laravel Auth Blog Api -@MaliSahin89.postman_collection.json`
 
 ### ⚙️ Kullanım
 

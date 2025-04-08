@@ -146,7 +146,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"title\": \"Laravel Auth Blog API Case Projesi\",\n    \"content\": \"Heranındapos Laravel Backend Case!\",\n    \"seo_title\": \"Laravel Auth Blog API Case Projesi\",\n    \"seo_description\": \"Laravel Auth Blog API Case Projesi Test seo_description\",\n    \"seo_keywords\": \"laravel, api, sanctum, malisahin89@gmail.com\"\n}"
+					"raw": "{\n    \"title\": \"Laravel Auth Blog API Case Projesi\",\n    \"content\": \"Laravel Backend Case!\",\n    \"seo_title\": \"Laravel Auth Blog API Case Projesi\",\n    \"seo_description\": \"Laravel Auth Blog API Case Projesi Test seo_description\",\n    \"seo_keywords\": \"laravel, api, sanctum, malisahin89@gmail.com\"\n}"
 				},
 				"url": {
 					"raw": "http://localhost:8000/api/posts",
